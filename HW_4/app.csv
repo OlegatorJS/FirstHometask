@@ -1,0 +1,28 @@
+1709376016931,Main,INFO,{"yellow":"yellow","red":"red"}
+1709376016931,Main,INFO,{"yellow":"yellow","red":"red"}
+1709376016934,Main,INFO,{"apple":"apple","banana":"banana"},{"yellow":"yellow","red":"red"}
+1709376016934,Main,INFO,{"apple":"apple","banana":"banana"},{"yellow":"yellow","red":"red"}
+1709376016935,Main,ERROR,"ERROR occur: My log"
+1709376016935,Main,ERROR,"ERROR occur: My log"
+1709376016935,Main,DEBUG,{"apple":"apple","banana":"banana"}
+1709376016935,Main,DEBUG,{"apple":"apple","banana":"banana"}
+1709376016935,Main,TRACE,{"apple":"apple","banana":"banana"}
+1709376016935,Main,TRACE,{"apple":"apple","banana":"banana"}
+1709376016936,handler.js,INFO,"First operand 3"
+1709376016936,handler.js,INFO,"First operand 3"
+1709376016936,handler.js,INFO,"Second operand 5"
+1709376016936,handler.js,INFO,"Second operand 5"
+1709376124530,Main,INFO,{"yellow":"yellow","red":"red"}
+1709376124530,Main,INFO,{"yellow":"yellow","red":"red"}
+1709376124534,Main,INFO,{"apple":"apple","banana":"banana"},{"yellow":"yellow","red":"red"}
+1709376124534,Main,INFO,{"apple":"apple","banana":"banana"},{"yellow":"yellow","red":"red"}
+1709376124534,Main,ERROR,"ERROR occur: My log"
+1709376124534,Main,ERROR,"ERROR occur: My log"
+1709376124535,Main,DEBUG,{"apple":"apple","banana":"banana"}
+1709376124535,Main,DEBUG,{"apple":"apple","banana":"banana"}
+1709376124535,handler.js,INFO,"First operand 3"
+1709376124535,Main,TRACE,{"apple":"apple","banana":"banana"}
+1709376124535,Main,TRACE,{"apple":"apple","banana":"banana"}
+1709376124535,handler.js,INFO,"First operand 3"
+1709376124536,handler.js,INFO,"Second operand 5"
+1709376124536,handler.js,INFO,"Second operand 5"
